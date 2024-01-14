@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh494" alt="amansingh494" /></a> </p>
 
-- 🌱 I’m currently learning **React, redux and blockchain**
+- 🌱 I’m currently learning **[CogniGuard]**(https://github.com/AmanSingh494/CogniGaurd)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React and Blockchain**
 
 - 📫 How to reach me **amanforwork1@gmail.com**
 
