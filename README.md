@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh494" alt="amansingh494" /></a> </p>
 
-- 🌱 I’m currently working on <a href="https://github.com/AmanSingh494/CogniGaurd">**Crafted-Concepts**</a>
+- 🌱 I’m currently working on <a href="https://github.com/AmanSingh494/Crafted-Concepts">**Crafted-Concepts**</a>
 
 - 💬 Ask me about **React and Blockchain**
 
